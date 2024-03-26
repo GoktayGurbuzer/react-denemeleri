@@ -1,12 +1,14 @@
-import logo from "./logo.svg"
+
+import './output.css'
+
 
 function App() {
+ 
   return (
-    <div className="App">
-      <img src='/logo192.png' />
-      <img src={logo} alt="" />
-    </div>
-  );
+    <>
+
+    </>
+  )
 }
 
 export default App;
